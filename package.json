@@ -1,0 +1,22 @@
+{
+  "name": "starsky",
+  "version": "1.0.0",
+  "description": "a threejs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfoonirlee/starsky.git"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "mfoonirlee@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfoonirlee/starsky/issues"
+  },
+  "homepage": "https://github.com/mfoonirlee/starsky#readme"
+}
